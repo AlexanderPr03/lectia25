@@ -27,6 +27,13 @@ function greetUser(user) {
 let greetUser2 = (user) => console.log('Hello, ' + user)
 
 
+let cart = {};
+
+function deleteCart() {
+    cart = {};
+}
+
+
 let numar = 5;
 
 for (let i = 0; i < 100; i++) {
