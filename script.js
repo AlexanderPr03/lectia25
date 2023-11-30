@@ -45,3 +45,8 @@ for (let i = 0; i < 100; i++) {
 
 // 4) Merge
 // 5) Pushing
+
+
+function sendAutoMail() {
+    fetch().then();
+}
